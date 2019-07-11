@@ -1,5 +1,6 @@
 # Roullete
 This project is a roullete game. Language Kotlin.
 
-#GIF
+# GIF
+
 ![Example Gif](./gif/GIFe.gif)
